@@ -7,11 +7,8 @@ package co.edu.unicundi.appgitprimera;
 
 /**
  *
- * @author Alejandro Cuaran
+ * @author User
  */
-public class Principal {
-    
-    public static void main(){
-        System.out.println("Hola mundo UDEC!!");
-    }
+public class Persona {
+    int x; 
 }
