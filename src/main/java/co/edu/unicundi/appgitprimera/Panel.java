@@ -10,5 +10,8 @@ package co.edu.unicundi.appgitprimera;
  * @author User
  */
 public class Panel {
+
+    public Panel() {
+    }
     
 }
